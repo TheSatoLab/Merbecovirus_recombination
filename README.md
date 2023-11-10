@@ -9,8 +9,8 @@ Keita Matsuno, Naganori Nao, Hirofumi Sawa, Shinya Tanaka, Masumi Tsuda, Lei Wan
 This repository contains the multiple sequence alignment files, phylogenetic trees, and computational codes for analyzing the influence of recombination on the receptor switching event in the subgenus _Merbecovirus_. 
 
 ## Contents
-*  **phylogenetic_analysis:** a directory containing computational codes for phylogenetic analysis as well as the reconstructed trees
-*  **output_files:** a directory containing all the aligned genome sequences, recombination-free block sequences, receptor-binding domain sequences of the representative viruses, and other output files.
+*  **phylogenetic_analysis:** a directory containing computational codes for phylogenetic analysis.
+*  **output_files:** a directory containing all the aligned genome sequences, recombination-free sequences, receptor-binding domain sequences of the representative viruses, the reconstructed trees, and other output files.
 
 For the details on the methods, please refer to our study:
 **Recombination breakpoint analysis on receptor switching event of Middle East respiratory syndrome coronavirus and its close relatives.**
