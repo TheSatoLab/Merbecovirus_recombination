@@ -14,5 +14,4 @@ This repository contains the multiple sequence alignment files, phylogenetic tre
 
 For the details on the methods, please refer to our study:
 **Recombination breakpoint analysis on receptor switching event of Middle East respiratory syndrome coronavirus and its close relatives.**
-Tolentino JEM., Lytras S., the Genotype to Phenotype Japan (G2P-Japan) Consortium, Ito J., Sato K.
 bioRxiV: 
