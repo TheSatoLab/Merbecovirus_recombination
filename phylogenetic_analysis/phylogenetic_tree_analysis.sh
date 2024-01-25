@@ -22,7 +22,7 @@ trimal \
 #construction of the tree
 iqtree2 \
   -s ${name}.aligned.cleaned.trimmed.fasta \
-  -nt AUTO -mem 8G -m GTR+I+G -bb 1000
+  -nt AUTO -mem 8G -m GTR -bb 1000
 
 #done
 #convert the tree file into a newick file for phylogenetic_tree_visualization.R script
