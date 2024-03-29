@@ -1,5 +1,5 @@
-# Recombination breakpoint analysis on receptor switching event of Middle East respiratory syndrome coronavirus and its close relatives
-A study by Jarel Elgin Tolentino, Spyros Lytras, the Genotype to Phenotype Japan (G2P-Japan) Consortium, Jumpei Ito, and Kei Sato
+# Recombination breakpoint analysis on receptor switching event of MERS-CoV and its close relatives
+A study by Jarel Elgin Tolentino, Spyros Lytras, Jumpei Ito, and Kei Sato
 
 **Consortia**
 
