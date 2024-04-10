@@ -14,5 +14,4 @@ This repository contains the multiple sequence alignment files, phylogenetic tre
 
 For the details on the methods, please refer to our study:
 **Recombination breakpoint analysis on receptor switching event of MERS-CoV and its close relatives: implications for the emergence of MERS-CoV.**
-* Journal: Virology Journal
-* DOI: 10.1186/s12985-024-02358-2
+* _Virology Journal_, doi: 10.1186/s12985-024-02358-2
