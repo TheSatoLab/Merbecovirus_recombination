@@ -1,4 +1,4 @@
-# Recombination breakpoint analysis on receptor switching event of MERS-CoV and its close relatives: implications for the emergence of MERS-CoV
+# Recombination analysis on the receptor switching event of MERS-CoV and its close relatives: implications for the emergence of MERS-CoV
 A study by Jarel Elgin Tolentino, Spyros Lytras, Jumpei Ito, and Kei Sato
 
 **The Genotype-to-Phenotype (G2P) Consortium**
@@ -13,5 +13,4 @@ This repository contains the multiple sequence alignment files, phylogenetic tre
 *  **output_files:** a directory containing all the aligned genome sequences, recombination-free sequences, receptor-binding domain sequences of the representative viruses, the reconstructed trees (raw), and other output files (raw).
 
 For the details on the methods, please refer to our study:
-**Recombination breakpoint analysis on receptor switching event of MERS-CoV and its close relatives: implications for the emergence of MERS-CoV.**
-* _Virology Journal_, doi: 10.1186/s12985-024-02358-2
+**Recombination analysis on the receptor switching event of MERS-CoV and its close relatives: implications for the emergence of MERS-CoV.**_Virology Journal_, doi: 10.1186/s12985-024-02358-2
